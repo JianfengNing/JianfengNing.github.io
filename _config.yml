@@ -5,7 +5,6 @@ affiliation: Wuhan University
 subaffiliation: School of Mathematics and Statistic
 affiliation_link: https://www.whu.edu.cn/
 subaffiliation_link: https://maths.whu.edu.cn/
-affiliation_logo: ./assets/img/spinion.svg
 email: ningjf(at)whu.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -21,11 +20,11 @@ enable_last_update: false
 
 # Links
 cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
+google_scholar: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
 github_link: https://github.com/jianfengning/
 linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
 twitter: 
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+researchgate: https://www.researchgate.net/profile/Jianfeng-Ning-2/research
 
 # Images 
 avatar: ./assets/img/avatar.jpg
