@@ -16,7 +16,8 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 
 ## Education:
 
-- **Sept.2015-June 2019**:
+- **Sep 2015-June 2019**: B.Sc in Mathematics and Applied Mathematics, Lanzhou University, China
+- **Sep 2019-June 2025**(Expected): Ph.D in Computational Mathematics, Wuhan University, China
 
 {% include_relative _includes/projects.md %}
 
