@@ -10,12 +10,9 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 
 ## Research Interest:
 
-- **Inverse Problems:** SRIM, iradina, SDTrimSP, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Numerical PDEs** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
-  {% include_relative _includes/news.md %}
+- **Inverse Problems:** 
+- **Machine Learning:** 
+- **Numerical PDEs** 
 
 {% include_relative _includes/projects.md %}
 
