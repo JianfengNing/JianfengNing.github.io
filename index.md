@@ -25,6 +25,7 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 
 - Derick Nganyu Tanyu, Jianfeng Ning, Tom Freudenberg, Nick Heilenkötter, Andreas Rademacher, Uwe Iben and Peter Maass. <br> [Deep learning methods for partial differential equations and related parameter identification problems.](https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4)<br>
 Inverse Problems 39(2023) 103001.
+
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A direct sampling-based deep learning approach for inverse medium scattering problems.](https://iopscience.iop.org/article/10.1088/1361-6420/ad0dba/meta)<br>
 Inverse Problems 40(2024) 015005.
