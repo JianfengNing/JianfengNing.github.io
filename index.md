@@ -28,6 +28,17 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 - Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass, [Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches](https://arxiv.org/abs/2310.18636), to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (2024).
 - Jianfeng Ning, Fuqun Han and Jun Zou, [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584),arXiv:2403.02584.
 
+## Honors & Awards
+
+- Wuhan University Excellent Teaching Assistant, Wuhan University, 2020
+- Wuhan University Second-Class Scholarship, Wuhan University, 2020
+- Wuhan University First-Class Scholarship for Graduate Freshman, Wuhan University, 2019
+- Lanzhou University Outstanding Graduate Award, Lanzhou University, 2019
+- Lanzhou University First-Class Scholarship, Lanzhou University, 2017,2018
+- China National Scholarship, 2016
+
+
+
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
