@@ -54,9 +54,7 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 - Machine Learning: Science and Technology
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/contact.md %}
-
 {% include_relative _includes/projects.md %}
 
 
