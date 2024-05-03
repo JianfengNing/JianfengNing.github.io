@@ -54,6 +54,3 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 
 
 
-{% include_relative _includes/publications.md %}
-
-
