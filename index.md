@@ -37,12 +37,13 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 - Lanzhou University First-Class Scholarship, Lanzhou University, 2017,2018
 - China National Scholarship, 2016
 
+## Reviewer for:
+
+- SIAM Journal on Numerical Analysis
+- Machine Learning: Science and Technology
 
 
-{% include_relative _includes/projects.md %}
 
-{% include_relative _includes/publications.md %}
+#{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
 
-{% include_relative _includes/contact.md %}
