@@ -22,6 +22,7 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 - **Visiting student & Research Assistant:** Oct. 2023 to now, [Department of Mathematics, The Chinese University of HongKong](https://www.math.cuhk.edu.hk/), HongKong
 
 ## Publications and Preprints:
+[Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584)<br>
