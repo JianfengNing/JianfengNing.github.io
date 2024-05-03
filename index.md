@@ -26,6 +26,7 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 - Derick Nganyu Tanyu, Jianfeng Ning, Tom Freudenberg, Nick Heilenkötter, Andreas Rademacher, Uwe Iben and Peter Maass, [Deep learning methods for partial differential equations and related parameter identification problems](https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4), Inverse Problems 39(2023) 103001.
 - Jianfeng Ning, Fuqun Han and Jun Zou, [A direct sampling-based deep learning approach for inverse medium scattering problems](https://iopscience.iop.org/article/10.1088/1361-6420/ad0dba/meta), Inverse Problems 40(2024) 015005.
 - Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass, [Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches](https://arxiv.org/abs/2310.18636), to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (2024).
+- Jianfeng Ning, Fuqun Han and Jun Zou, [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584),arXiv:2403.02584.
 
 {% include_relative _includes/projects.md %}
 
