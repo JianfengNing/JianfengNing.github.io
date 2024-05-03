@@ -10,8 +10,8 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 
 ## Research Interest:
 
-- **Inverse Problems:** 
-- **Machine Learning:** 
+- **Inverse Problems** 
+- **Machine Learning** 
 - **Numerical PDEs**
 
 ## Education:
