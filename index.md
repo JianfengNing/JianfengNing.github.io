@@ -44,6 +44,6 @@ I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan 
 
 
 
-#{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
 
