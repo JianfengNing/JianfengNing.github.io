@@ -1,3 +1,5 @@
+{% for link in site.data.publications.main %}
+
 ## Publications and Preprints:
 [Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
 
