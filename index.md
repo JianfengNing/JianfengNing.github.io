@@ -1,4 +1,6 @@
-
+---
+layout: homepage
+---
 
 <h1 id="about-me"></h1>
 
