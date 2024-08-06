@@ -55,16 +55,5 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 - Journal of Franklin Institute
 
 
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
-
-{% include_relative _includes/contact.md %}
-
-
 
 
