@@ -2,7 +2,7 @@
 title: Jianfeng Ning
 position: Ph.D. Candidate
 affiliation: Wuhan University
-subaffiliation: School of Mathematics and Statistic
+subaffiliation: School of Mathematics and Statistics
 affiliation_link: https://www.whu.edu.cn/
 subaffiliation_link: https://maths.whu.edu.cn/
 email: ningjf@whu.edu.cn
@@ -10,7 +10,7 @@ email: ningjf@whu.edu.cn
 # Search Engine Optimization (SEO)
 keywords: jianfeng
 canonical: https://minimal-light-theme.yliu.me/
-description: Jianfeng Ning is a Ph.D. canditate at Wuhan University. His research lies at numerical PDEs, inverse problems and machine learning.
+description: Jianfeng Ning is a Ph.D. candidate at Wuhan University. His research lies at numerical PDEs, inverse problems, and machine learning.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
