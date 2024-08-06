@@ -16,7 +16,7 @@ description: Jianfeng Ning is a Ph.D. candidate at Wuhan University. His researc
 #enable_hopkins_logo: false
 
 # The option is used to show the last update time.
-#enable_last_update: false
+enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
