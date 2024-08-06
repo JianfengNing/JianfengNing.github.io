@@ -54,20 +54,7 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 - SIAM Journal on Numerical Analysis
 - Machine Learning: Science and Technology
 - Journal of Franklin Institute
-
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
-
-{% include_relative _includes/contact.md %}
+- Physica Scripta
 
 
 
