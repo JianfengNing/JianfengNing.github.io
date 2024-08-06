@@ -23,8 +23,8 @@ google_scholar: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
 researchgate: https://www.researchgate.net/profile/Jianfeng-Ning-2/research
 
 # Images 
-avatar: ./assets/img/Self.jpg
-favicon: ./assets/img/Self.png
+#avatar: ./assets/img/Self.jpg
+#favicon: ./assets/img/Self.png
 #favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
