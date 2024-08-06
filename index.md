@@ -8,6 +8,8 @@ layout: homepage
 
 I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).
 
+
+<h3 style="margin: 60px 0px 10px;">Research</h3>
 ## Research Interest:
 
 - **Inverse Problems** 
