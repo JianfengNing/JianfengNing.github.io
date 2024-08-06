@@ -54,7 +54,7 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 - SIAM Journal on Numerical Analysis
 - Machine Learning: Science and Technology
 - Journal of Franklin Institute
-- Physica Scripta12
+- Physica Scripta1
 
 
 
