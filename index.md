@@ -6,14 +6,8 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Ph.D. candidate at School of Mathematics and Statistics, Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).
+Jianfeng Ning is a Ph.D. candidate at Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).  His research interests include numerical PDEs, inverse problems, and machine learning.
 
-
-## Research Interest:
-
-- **Inverse Problems** 
-- **Machine Learning** 
-- **Numerical PDEs**
 
 ## Education:
 
