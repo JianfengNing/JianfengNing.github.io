@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 20px 0px 2px;">Short Bio</h2>
+<h2 style="margin: 20px 0px 10px;">Short Bio</h2>
 
 I am a Ph.D. candidate at Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).  My research interests include numerical PDEs, inverse problems, and machine learning.
 
