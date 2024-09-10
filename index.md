@@ -6,15 +6,15 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Jianfeng Ning is a Ph.D. candidate at Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).  His research interests include numerical PDEs, inverse problems, and machine learning.
+I am a Ph.D. candidate at Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).  My research interests include numerical PDEs, inverse problems, and machine learning.
 
 
 ## Education:
 
 - **Sep. 2015-Jun. 2019**: B.Sc in Mathematics and Applied Mathematics, [Lanzhou University](https://www.lzu.edu.cn/), China
 - **Sep. 2019-Jun. 2025**(Expected): Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
-- **Visiting Student:** Feb. 2022 to Sep. 2023, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany. Sponsored by the China Scholarship Council(CSC).
-- **Visiting student & Research Assistant:** Oct. 2023 to now, [Department of Mathematics, The Chinese University of HongKong](https://www.math.cuhk.edu.hk/), HongKong
+- **Feb. 2022 to Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany. Sponsored by the China Scholarship Council(CSC).
+- **Oct. 2023 to now** Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of HongKong](https://www.math.cuhk.edu.hk/), HongKong
 
 ## Publications and Preprints:
 [Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
@@ -46,9 +46,7 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 ## Reviewer for:
 
 - SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
-- Machine Learning: Science and Technology
-- Journal of Franklin Institute
-- Physica Scripta
+
 
 
 
