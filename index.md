@@ -43,9 +43,11 @@ to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (
 - Lanzhou University First-Class Scholarship, Lanzhou University, 2017,2018
 - China National Scholarship, 2016
 
-## Reviewer for:
+## Professional activities:
 
-- SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
+- Member of Inverse Problems International Association(IPIA)
+- **Reviewer for:** SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
+  
 
 
 
