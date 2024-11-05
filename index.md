@@ -13,7 +13,7 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 
 - **Sep. 2015-Jun. 2019**: B.Sc in Mathematics and Applied Mathematics, [Lanzhou University](https://www.lzu.edu.cn/), China
 - **Sep. 2019-Jun. 2025**(Expected): Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
-- **Feb. 2022 to Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany. Sponsored by the China Scholarship Council(CSC).
+- **Feb. 2022 to Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
 - **Oct. 2023 to now**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of HongKong](https://www.math.cuhk.edu.hk/), HongKong
 
 ## Publications and Preprints:
@@ -21,7 +21,7 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 
 - Jianfeng Ning, and Jun Zou.<br>
 [Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network](https://arxiv.org/abs/2410.05098)<br>
-arXiv:2410.05098. (Under review in Journal of Computational Physics(first round))
+arXiv:2410.05098. (Submitted)
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584)<br>
