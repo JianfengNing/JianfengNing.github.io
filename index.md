@@ -21,11 +21,11 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 
 - Jianfeng Ning, and Jun Zou.<br>
 [Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network](https://arxiv.org/abs/2410.05098)<br>
-arXiv:2410.05098.
+arXiv:2410.05098. (Under review in Journal of Computational Physics(first round))
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584)<br>
-arXiv:2403.02584.
+arXiv:2403.02584. (Under review in SIAM Journal of Scientific Computing(second round))
 
 - Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass. <br>
 [Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches.](https://arxiv.org/abs/2310.18636)<br>
