@@ -29,7 +29,7 @@ arXiv:2403.02584. (Under review in SIAM Journal of Scientific Computing(second r
 
 - Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass. <br>
 [Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches.](https://arxiv.org/abs/2310.18636)<br>
-to appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (2024).
+To appear in "Data-driven models in inverse problems", RICAM series, DeGruyter (2024).
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A direct sampling-based deep learning approach for inverse medium scattering problems.](https://iopscience.iop.org/article/10.1088/1361-6420/ad0dba/meta)<br>
