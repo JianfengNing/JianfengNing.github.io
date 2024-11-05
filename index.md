@@ -50,7 +50,7 @@ Inverse Problems 39(2023) 103001.
 
 ## Professional activities:
 
-- Member of Inverse Problems International Association(IPIA)
+- **Member of:** Inverse Problems International Association(IPIA)
 - **Reviewer for:** SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
   
 
