@@ -25,7 +25,7 @@ arXiv:2410.05098. (Submitted)
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584)<br>
-arXiv:2403.02584. (Under review in SIAM Journal on Scientific Computing(second round))
+arXiv:2403.02584. (Under review in SIAM Journal on Scientific Computing (Second round))
 
 - Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass. <br>
 [Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches.](https://www.degruyter.com/document/doi/10.1515/9783111251233-013/html)<br>
