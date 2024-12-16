@@ -52,6 +52,10 @@ Inverse Problems 39(2023) 103001.
 
 - **Member of:** Inverse Problems International Association(IPIA)
 - **Reviewer for:** SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
+
+## Conference talks:
+
+- **Deep learning for PDE-based inverse problems**, MFO Oberwolfach 
   
 
 
