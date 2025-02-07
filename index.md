@@ -20,8 +20,8 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 [Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
 
 - Jianfeng Ning, and Jun Zou.<br>
-[Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network](https://arxiv.org/abs/2410.05098)<br>
-Journal of Computational Physics. (Accepted)
+[Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network]([https://arxiv.org/abs/2410.05098](https://www.sciencedirect.com/science/article/pii/S0021999125001032))<br>
+Journal of Computational Physics (2025) 113820
 
 - Jianfeng Ning, Fuqun Han and Jun Zou.<br>
 [A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data](https://arxiv.org/abs/2403.02584)<br>
