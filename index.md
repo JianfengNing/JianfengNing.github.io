@@ -11,10 +11,12 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 
 ## Education and Experiences:
 
+- **Sep. 2019-Jun. 2025**: Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
+- **Oct. 2023 to now**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong.
+- **Feb. 2022 to Sep. 2023**: Visiting Student (host Professor: Prof. Peter Maass), [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
 - **Sep. 2015-Jun. 2019**: B.Sc in Mathematics and Applied Mathematics, [Lanzhou University](https://www.lzu.edu.cn/), China
-- **Sep. 2019-Jun. 2025**(Expected): Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
-- **Feb. 2022 to Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
-- **Oct. 2023 to now**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong
+
+
 
 ## Publications and Preprints:
 [Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
@@ -41,6 +43,7 @@ Inverse Problems 39(2023) 103001.
 
 ## Honors & Awards
 
+- Outstanding Graduate Award, School of Mathematics and Statistics, Wuhan University,2025
 - Wuhan University Excellent Teaching Assistant, Wuhan University, 2020
 - Wuhan University Second-Class Scholarship, Wuhan University, 2020
 - Wuhan University First-Class Scholarship for Graduate Freshman, Wuhan University, 2019
@@ -51,7 +54,7 @@ Inverse Problems 39(2023) 103001.
 ## Professional activities:
 
 - **Member of:** Inverse Problems International Association(IPIA)
-- **Reviewer for:** SIAM Journal on Numerical Analysis;  Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
+- **Reviewer for:** SIAM Journal on Numerical Analysis;  SIAM Journal on Scientific Computing; Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
 
 ## Conference talks:
 
