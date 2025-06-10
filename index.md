@@ -13,7 +13,7 @@ I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof.
 
 - **Sep. 2019-Jun. 2025**: Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
 - **Oct. 2023 to now**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong.
-- **Feb. 2022 to Sep. 2023**: Visiting Student (host Professor: Prof. Peter Maass), [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
+- **Feb. 2022 to Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
 - **Sep. 2015-Jun. 2019**: B.Sc in Mathematics and Applied Mathematics, [Lanzhou University](https://www.lzu.edu.cn/), China
 
 
