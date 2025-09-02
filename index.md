@@ -12,7 +12,7 @@ I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Eq
 ## Education and Experiences:
 
 
-- **Since Sep. 2025**: PostDoc Researcher, [Weierstrass Institute]([https://www.wias-berlin.de/]), Germany.
+- **Since Sep. 2025**: PostDoc Researcher, [Weierstrass Institute](https://www.wias-berlin.de/), Germany.
 - **Sep. 2019-Jun. 2025**: Ph.D in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
 - **Oct. 2023-Jun. 2025**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong.
 - **Feb. 2022-Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
