@@ -6,12 +6,14 @@ layout: homepage
 
 <h2 style="margin: 10px 0px 10px;">Short Bio</h2>
 
-I am a Ph.D. student at Wuhan University, studying under the mentorship of Prof. [Jun Zou](https://www.math.cuhk.edu.hk/~zou/).  My research interests include numerical PDEs, inverse problems, and machine learning.
+I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Equations group at the Weierstrass Institute in Berlin. My research interests include numerical PDEs, inverse problems, optimization and machine learning.
 
 
 ## Education and Experiences:
 
-- **Sep. 2019-Jun. 2025**: Ph.D student in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
+
+- **Sep. 2025-: PostDoc Researcher, [Weierstrass Institute]([https://www.wias-berlin.de/]), Germany.
+- **Sep. 2019-Jun. 2025**: Ph.D in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
 - **Oct. 2023-Jun. 2025**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong.
 - **Feb. 2022-Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
 - **Sep. 2015-Jun. 2019**: B.Sc in Mathematics and Applied Mathematics, [Lanzhou University](https://www.lzu.edu.cn/), China
