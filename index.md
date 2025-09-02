@@ -12,7 +12,7 @@ I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Eq
 ## Education and Experiences:
 
 
-- **Sep. 2025-: PostDoc Researcher, [Weierstrass Institute]([https://www.wias-berlin.de/]), Germany.
+- **Sep. 2025-**: PostDoc Researcher, [Weierstrass Institute]([https://www.wias-berlin.de/]), Germany.
 - **Sep. 2019-Jun. 2025**: Ph.D in Computational Mathematics, [Wuhan University](https://www.whu.edu.cn/), China.
 - **Oct. 2023-Jun. 2025**: Visiting Student & Research Assistant, [Department of Mathematics, The Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/), Hong Kong.
 - **Feb. 2022-Sep. 2023**: Visiting Student, [ZeTeM, University of Bremen](https://www.math.uni-bremen.de/zetem/cms/detail.php?template=parse_title&person=ueber), Germany.
@@ -22,6 +22,10 @@ I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Eq
 
 ## Publications and Preprints:
 [Google Scholar](https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Jianfeng-Ning-2/research)
+
+- Alexander Denker, Fabio Margotti, Jianfeng Ning, Kim Knudsen, Derick Nganyu Tanyu, Bangti Jin, Andreas Hauptmann and Peter Maass.<br>
+[Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography](https://arxiv.org/pdf/2508.06281)<br>
+Journal of Computational Physics 528(2025) 113820
 
 - Jianfeng Ning, and Jun Zou.<br>
 [Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network](https://www.sciencedirect.com/science/article/pii/S0021999125001032)<br>
@@ -56,7 +60,7 @@ Inverse Problems 39(2023) 103001.
 ## Professional activities:
 
 - **Member of:** Inverse Problems International Association(IPIA)
-- **Reviewer for:** SIAM Journal on Numerical Analysis;  SIAM Journal on Scientific Computing; Machine Learning: Science and Technology;  Journal of Franklin Institute;  Physica Scripta
+- **Reviewer for:** SIAM J. Numer. Anal.; SIAM J. Sci. Comput.; Mach. Learn.: Sci. Technol.; J. of the Franklin Inst; Phys. Scr.; Arch. Comput. Methods Eng..
 
 ## Conference talks:
 
