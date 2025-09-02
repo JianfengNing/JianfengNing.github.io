@@ -25,7 +25,7 @@ I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Eq
 
 - Alexander Denker, Fabio Margotti, Jianfeng Ning, Kim Knudsen, Derick Nganyu Tanyu, Bangti Jin, Andreas Hauptmann and Peter Maass.<br>
 [Deep Learning Based Reconstruction Methods for Electrical Impedance Tomography](https://arxiv.org/pdf/2508.06281)<br>
-Journal of Computational Physics 528(2025) 113820
+arXiv:2508.06281
 
 - Jianfeng Ning, and Jun Zou.<br>
 [Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network](https://www.sciencedirect.com/science/article/pii/S0021999125001032)<br>
