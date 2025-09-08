@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 10px 0px 10px;">Short Bio</h2>
 
-I am a PostDoc researcher  in the Nonsmooth Variational Problems and Operator Equations group at the Weierstrass Institute in Berlin. My research interests include numerical PDEs, inverse problems, optimization and machine learning.
+I am a PostDoc researcher in the group **Nonsmooth Variational Problems and Operator Equations** at **Weierstrass Institute** in Berlin. My research interests include numerical PDEs, inverse problems, optimization and machine learning.
 
 
 ## Education and Experiences:
