@@ -47,6 +47,7 @@ Inverse Problems 39(2023) 103001.
 ## Honors & Awards
 
 - Outstanding Graduate Award, School of Mathematics and Statistics, Wuhan University,2025
+- First-Class Academic Innovation Scholarship for Postgraduate Students, Wuhan University,2025
 - Wuhan University Excellent Teaching Assistant, Wuhan University, 2020
 - Wuhan University Second-Class Scholarship, Wuhan University, 2020
 - Wuhan University First-Class Scholarship for Graduate Freshman, Wuhan University, 2019
