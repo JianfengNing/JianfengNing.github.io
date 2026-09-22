@@ -1,60 +1,61 @@
-# Basic Information 
 title: Jianfeng Ning
-position: PostDoc Researcher
-affiliation: Weierstrass Institute
-affiliation_link: https://www.wias-berlin.de/
-email: ning@wias-berlin.de
+position: Postdoctoral Researcher
+description: Jianfeng Ning is a postdoctoral researcher at WIAS working on numerical PDEs, inverse problems, optimization, and machine learning.
+url: https://jianfengning.github.io
+baseurl: ""
+lang: en
+timezone: Europe/Berlin
+repository: JianfengNing/JianfengNing.github.io
 
-# Search Engine Optimization (SEO)
-keywords: jianfeng
-# canonical: https://minimal-light-theme.yliu.me/
-description: Jianfeng Ning is a Ph.D. candidate at Wuhan University. His research lies at numerical PDEs, inverse problems, and machine learning.
+keywords: Jianfeng Ning, numerical PDEs, inverse problems, optimization, machine learning
+markdown: kramdown
 
-# The option is used to enable the Johns Hopkins template.
-#enable_hopkins_logo: false
-
-# The option is used to show the last update time.
-enable_last_update: true
-
-# Links
-google_scholar: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
-researchgate: https://www.researchgate.net/profile/Jianfeng-Ning-2/research
-
-# Images 
-#avatar: ./assets/img/Self.jpg
-#favicon: ./assets/img/Self.png
-#favicon_dark: ./assets/img/favicon-dark.png
-
-# Footnotes
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-#enable_footnote: false
-#footnote: Feel free to use my website's source code.
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
-
-
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-#remote_theme: yaoyao-liu/minimal-light
-
-
-
-
-
-# The following files will be removed from the generated website.
 exclude:
   - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
+  - README copy.md
+  - EDITING.md
   - LICENSE
   - CNAME
+  - _site
+  - blog
+  - contact
+  - css
+  - google_scholar_crawler
+  - img
+  - js
+  - assets/.DS_Store
+  - assets/js
+  - assets/mpii_files
+  - assets/css/nav-ori.css
+  - assets/css/nav.css
+  - assets/css/pub-ori.css
+  - assets/css/pub.css
+  - assets/files/.DS_Store
+  - assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+  - assets/files/JEMS2023.jpg
+  - assets/files/JEMS2023_2.jpg
+  - assets/files/JEMS2023_Song.pdf
+  - assets/files/SSRN-id4328224.pdf
+  - assets/files/admi202270196-gra-0001-m.jpg
+  - assets/files/flexible.txt
+  - assets/files/magnetoionic.txt
+  - assets/files/multi.jpg
+  - assets/files/multi.pdf
+  - assets/files/multi.txt
+  - assets/img/.DS_Store
+  - assets/img/Group_picture.jpg
+  - assets/img/Portada-cc58d654.jpg
+  - assets/img/Self.jpg
+  - assets/img/autova.png
+  - assets/img/avatar.jpg
+  - assets/img/eth.jpg
+  - assets/img/favicon-dark.png
+  - assets/img/favicon.png
+  - assets/img/joint.jpg
+  - assets/img/lF0ulCNA.jpeg
+  - assets/img/spinion.svg
+  - assets/img/spinionlogo.png
+  - assets/img/university-logo-small-horizontal-white-156eae9527.svg

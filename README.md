@@ -1,43 +1,26 @@
-# songchen.github.io
-Song Chen's homepage
+# Jianfeng Ning — Academic Homepage
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
+Source for [jianfengning.github.io](https://jianfengning.github.io/), hosted with GitHub Pages.
 
-This is the latest version of my homepage's source code. Feel free to use and share.
-<br />
-For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
+## Quick edits
 
-### Using Locally with Jekyll
+Most visible text lives in one file: [`_data/profile.yml`](./_data/profile.yml).
+It contains the biography, research interests, publications, experience, awards,
+professional activities, and skills. You can edit it directly in GitHub without
+installing anything.
 
-You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.
+- Detailed Chinese guide: [`EDITING.md`](./EDITING.md)
+- Page structure: [`_layouts/homepage.html`](./_layouts/homepage.html)
+- Visual design: [`assets/css/style.scss`](./assets/css/style.scss)
+- CV file: [`assets/files/Jianfeng-Ning-CV.pdf`](./assets/files/Jianfeng-Ning-CV.pdf)
+- Portrait: [`assets/img/jianfeng-ning.jpg`](./assets/img/jianfeng-ning.jpg)
 
-Install and run:
+## Local preview
 
 ```bash
 bundle install
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in the `_site` folder.
 
-### Google Scholar Crawler
-
-The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
-<br>
-Before using that, you need to change the Google Scholar ID in the following file:
-https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782fb74d937710eb50e/google_scholar_crawler/main.py#L7
-
-
-### Acknowledgements
-
-This project uses the source code from the following repositories:
-
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
-
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
-
-* [al-folio](https://github.com/alshedivat/al-folio)
-
-* [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
-
-* [yaoyao-liu homepage](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
+Open `http://localhost:4000` in a browser. GitHub Pages rebuilds the live site
+automatically after changes are committed to `main`.

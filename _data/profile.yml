@@ -1,0 +1,159 @@
+# This is the main content file for the website.
+# Edit the text below in GitHub, then commit the change to update the live site.
+
+name: Jianfeng Ning
+initials: JN
+role: Postdoctoral Researcher
+affiliation: Weierstrass Institute for Applied Analysis and Stochastics
+affiliation_short: Weierstrass Institute (WIAS)
+affiliation_url: https://www.wias-berlin.de/
+group: Nonsmooth Variational Problems and Operator Equations
+group_url: https://www.wias-berlin.de/research/rgs/fg8/index.jsp?lang=1
+location: Berlin, Germany
+email: ning@wias-berlin.de
+photo: /assets/img/jianfeng-ning.jpg
+cv: /assets/files/Jianfeng-Ning-CV.pdf
+
+intro: >-
+  I develop mathematical and computational methods for inverse problems and
+  optimization, with an emphasis on numerical PDEs and reliable machine learning.
+
+bio: >-
+  I am a postdoctoral researcher in the Nonsmooth Variational Problems and
+  Operator Equations group at the Weierstrass Institute in Berlin. My work
+  connects mathematical analysis, numerical algorithms, and scientific machine
+  learning to solve inverse and PDE-constrained problems.
+
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
+    kind: primary
+  - label: CV
+    url: /assets/files/Jianfeng-Ning-CV.pdf
+  - label: GitHub
+    url: https://github.com/JianfengNing
+  - label: ResearchGate
+    url: https://www.researchgate.net/profile/Jianfeng-Ning-2/research
+  - label: Email
+    url: mailto:ning@wias-berlin.de
+
+research_interests:
+  - title: Numerical PDEs
+    description: Stable discretizations and computational methods for PDE-constrained problems.
+    number: "01"
+  - title: Inverse Problems
+    description: Direct sampling and reconstruction methods for inverse scattering and imaging.
+    number: "02"
+  - title: Optimization
+    description: Optimization in function spaces, variational models, and nonsmooth structure.
+    number: "03"
+  - title: Machine Learning
+    description: Structure-aware learning methods that complement analytical reconstruction.
+    number: "04"
+
+publications:
+  - year: "2026"
+    type: Preprint
+    title: Constrained Neural Parameterization for Optimization in Function Spaces
+    authors: Michael Hintermüller and Jianfeng Ning
+    venue: arXiv:2606.00855
+    url: https://arxiv.org/abs/2606.00855
+  - year: "2025"
+    type: Journal article
+    title: "Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network"
+    authors: Jianfeng Ning and Jun Zou
+    venue: Journal of Computational Physics, 528, 113820
+    url: https://www.sciencedirect.com/science/article/pii/S0021999125001032
+  - year: "2025"
+    type: Journal article
+    title: A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data
+    authors: Jianfeng Ning, Fuqun Han and Jun Zou
+    venue: SIAM Journal on Scientific Computing, 47, C343–C368
+    url: https://epubs.siam.org/doi/10.1137/24M1642627
+  - year: "2025"
+    type: Book chapter
+    title: "Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches"
+    authors: Derick Nganyu Tanyu, Jianfeng Ning, Andreas Hauptmann, Bangti Jin and Peter Maass
+    venue: Data-driven Models in Inverse Problems, De Gruyter, 437–470
+    url: https://www.degruyterbrill.com/document/doi/10.1515/9783111251233-013/html
+  - year: "2025"
+    type: Book chapter
+    title: Deep learning based reconstruction methods for electrical impedance tomography
+    authors: Alexander Denker, Fabio Margotti, Jianfeng Ning, Kim Knudsen, Derick Nganyu Tanyu, Bangti Jin, Andreas Hauptmann and Peter Maass
+    venue: Handbook of Numerical Analysis, 26, 127–175
+    url: https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1570865925000031
+  - year: "2024"
+    type: Journal article
+    title: A direct sampling-based deep learning approach for inverse medium scattering problems
+    authors: Jianfeng Ning, Fuqun Han and Jun Zou
+    venue: Inverse Problems, 40, 015005
+    url: https://iopscience.iop.org/article/10.1088/1361-6420/ad0dba
+  - year: "2023"
+    type: Review article
+    title: Deep learning methods for partial differential equations and related parameter identification problems
+    authors: Derick Nganyu Tanyu, Jianfeng Ning (co-first author), Tom Freudenberg, Nick Heilenkötter, Andreas Rademacher, Uwe Iben and Peter Maass
+    venue: Inverse Problems, 39, 103001
+    url: https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4
+
+experience:
+  - period: Since Sep 2025
+    institution: Weierstrass Institute for Applied Analysis and Stochastics
+    institution_short: WIAS
+    role: Postdoctoral Researcher
+    location: Berlin, Germany
+    url: https://www.wias-berlin.de/
+  - period: Sep 2019 – Jun 2025
+    institution: Wuhan University
+    role: Ph.D. in Computational Mathematics
+    location: Wuhan, China
+    url: https://www.whu.edu.cn/
+    details:
+      - Oct 2023 – Jun 2025 · Research Assistant, The Chinese University of Hong Kong
+      - Feb 2022 – Sep 2023 · Visiting Student, University of Bremen
+  - period: Sep 2015 – Jun 2019
+    institution: Lanzhou University
+    role: B.Sc. in Mathematics and Applied Mathematics
+    location: Lanzhou, China
+    url: https://www.lzu.edu.cn/
+
+awards:
+  - year: "2026"
+    name: EAIP PhD Thesis Award
+  - year: "2025"
+    name: Outstanding Graduate Award, School of Mathematics and Statistics, Wuhan University
+  - year: "2025"
+    name: First-Class Academic Innovation Scholarship for Postgraduate Students, Wuhan University
+  - year: "2024"
+    name: Second-Class Academic Innovation Scholarship for Postgraduate Students, Wuhan University
+  - year: "2020"
+    name: Excellent Teaching Assistant, Wuhan University
+  - year: "2020"
+    name: Second-Class Scholarship, Wuhan University
+  - year: "2019"
+    name: First-Class Scholarship for Graduate Freshman, Wuhan University
+  - year: "2019"
+    name: Outstanding Graduate Award, Lanzhou University
+  - year: 2017–2018
+    name: First-Class Scholarship, Lanzhou University
+  - year: "2016"
+    name: China National Scholarship
+
+professional:
+  membership: Member of the Inverse Problems International Association (IPIA)
+  reviewer_for:
+    - SIAM Journal on Numerical Analysis
+    - SIAM Journal on Scientific Computing
+    - Inverse Problems
+    - Machine Learning: Science and Technology
+    - Journal of the Franklin Institute
+    - Physica Scripta
+
+skills:
+  programming:
+    - Python
+    - PyTorch
+    - MATLAB
+    - C++
+  languages:
+    - Chinese · native
+    - English · professional working proficiency
