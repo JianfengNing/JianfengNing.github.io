@@ -54,9 +54,9 @@
         <button class="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false">Menu</button>
         <nav id="site-nav" aria-label="Primary navigation">
           <a href="#about">About</a>
+          <a href="#experience">Experience</a>
           <a href="#research">Research</a>
           <a href="#publications">Publications</a>
-          <a href="#experience">Experience</a>
           <a href="#recognition">Recognition</a>
           <a href="#contact">Contact</a>
         </nav>
@@ -94,8 +94,34 @@
         </div>
       </section>
 
+      <section class="section shell" id="experience">
+        <div class="section-label"><span>02</span><p>Experience</p></div>
+        <div class="section-body">
+          <div class="section-heading">
+            <h2>Education & experience</h2>
+          </div>
+          <div class="timeline">
+            {% for item in profile.experience %}
+              <article class="timeline-item">
+                <p class="timeline-period">{{ item.period }}</p>
+                <div class="timeline-content">
+                  <h3><a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.institution }}</a></h3>
+                  <p class="timeline-role">{{ item.role }}</p>
+                  {% if item.details %}
+                    <ul>
+                      {% for detail in item.details %}<li>{{ detail }}</li>{% endfor %}
+                    </ul>
+                  {% endif %}
+                </div>
+                <p class="timeline-location">{{ item.location }}</p>
+              </article>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+
       <section class="section shell" id="research">
-        <div class="section-label"><span>02</span><p>Research</p></div>
+        <div class="section-label"><span>03</span><p>Research</p></div>
         <div class="section-body">
           <div class="section-heading">
             <h2>Research interests</h2>
@@ -115,7 +141,7 @@
 
       <section class="publication-section" id="publications">
         <div class="section shell publication-shell">
-          <div class="section-label"><span>03</span><p>Publications</p></div>
+          <div class="section-label"><span>04</span><p>Publications</p></div>
           <div class="section-body">
             <div class="section-heading publication-heading">
               <h2>Publications</h2>
@@ -141,35 +167,9 @@
         </div>
       </section>
 
-      <section class="section shell" id="experience">
-        <div class="section-label"><span>04</span><p>Experience</p></div>
-        <div class="section-body">
-          <div class="section-heading">
-            <h2>Education & experience</h2>
-          </div>
-          <div class="timeline">
-            {% for item in profile.experience %}
-              <article class="timeline-item">
-                <p class="timeline-period">{{ item.period }}</p>
-                <div class="timeline-content">
-                  <h3><a href="{{ item.url }}" target="_blank" rel="noreferrer">{{ item.institution }}</a></h3>
-                  <p class="timeline-role">{{ item.role }}</p>
-                  {% if item.details %}
-                    <ul>
-                      {% for detail in item.details %}<li>{{ detail }}</li>{% endfor %}
-                    </ul>
-                  {% endif %}
-                </div>
-                <p class="timeline-location">{{ item.location }}</p>
-              </article>
-            {% endfor %}
-          </div>
-        </div>
-      </section>
-
       <section class="section shell" id="recognition">
         <div class="section-label"><span>05</span><p>Recognition</p></div>
-        <div class="section-body recognition-grid">
+        <div class="section-body recognition-content">
           <div>
             <div class="section-heading compact-heading"><h2>Honors & awards</h2></div>
             <ol class="award-list">
@@ -178,13 +178,12 @@
               {% endfor %}
             </ol>
           </div>
-          <aside class="service-card">
+          <aside class="activity-strip">
             <p class="mini-label">Professional activities</p>
-            <h3>{{ profile.professional.membership }}</h3>
-            <p class="review-label">Reviewer for</p>
-            <ul>
-              {% for journal in profile.professional.reviewer_for %}<li>{{ journal }}</li>{% endfor %}
-            </ul>
+            <div class="activity-details">
+              <p><strong>Membership</strong><span>{{ profile.professional.membership }}</span></p>
+              <p><strong>Reviewer for</strong><span>{% for journal in profile.professional.reviewer_for %}{{ journal }}{% unless forloop.last %} · {% endunless %}{% endfor %}</span></p>
+            </div>
           </aside>
         </div>
       </section>
