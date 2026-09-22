@@ -66,7 +66,7 @@
     <main id="main-content">
       <section class="hero shell" id="top">
         <div class="hero-copy">
-          <p class="eyebrow">Mathematics · Computation · Inverse Problems</p>
+          <p class="eyebrow">Mathematics · Computation · Inverse Problems · Optimization · Machine Learning</p>
           <h1>{{ profile.name }}</h1>
           <p class="role">{{ profile.role }} <span>at</span> <a href="{{ profile.affiliation_url }}" target="_blank" rel="noreferrer">{{ profile.affiliation_short }}</a></p>
           <p class="lede">{{ profile.intro }}</p>
@@ -115,25 +115,6 @@
                   {% endif %}
                 </div>
                 <p class="timeline-location">{{ item.location }}</p>
-              </article>
-            {% endfor %}
-          </div>
-        </div>
-      </section>
-
-      <section class="section shell" id="research">
-        <div class="section-label"><span>03</span><p>Research</p></div>
-        <div class="section-body">
-          <div class="section-heading">
-            <h2>Research interests</h2>
-            <p>Four connected directions, from analysis to computation.</p>
-          </div>
-          <div class="interest-grid">
-            {% for item in profile.research_interests %}
-              <article class="interest-card">
-                <span>{{ item.number }}</span>
-                <h3>{{ item.title }}</h3>
-                <p>{{ item.description }}</p>
               </article>
             {% endfor %}
           </div>
