@@ -18,7 +18,7 @@
     <meta name="twitter:title" content="{{ site.title }} · {{ site.position }}">
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image" content="{{ site.url }}/assets/img/social-preview.jpg">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=20260922-2' | relative_url }}">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -77,8 +77,9 @@
           </div>
         </div>
         <div class="portrait-wrap">
-          <span class="portrait-rule" aria-hidden="true"></span>
-          <img class="portrait" src="{{ profile.photo | relative_url }}" alt="Portrait of {{ profile.name }}" width="1000" height="751">
+          <div class="portrait-frame">
+            <img class="portrait" src="{{ profile.photo | relative_url }}" alt="Portrait of {{ profile.name }}" width="1000" height="751">
+          </div>
           <p>{{ profile.location }}</p>
         </div>
       </section>
