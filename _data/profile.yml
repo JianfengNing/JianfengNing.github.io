@@ -14,9 +14,6 @@ email: ning@wias-berlin.de
 photo: /assets/img/jianfeng-ning.jpg
 cv: /assets/files/Jianfeng-Ning-CV.pdf
 
-intro: >-
-  I develop mathematical and computational methods for inverse problems and
-  optimization, with an emphasis on numerical PDEs and reliable machine learning.
 
 bio: >-
   I am a postdoctoral researcher in the Nonsmooth Variational Problems and
@@ -28,8 +25,6 @@ links:
   - label: Google Scholar
     url: https://scholar.google.com.hk/citations?user=pn5b5Q4AAAAJ&hl=en
     kind: primary
-  - label: CV
-    url: /assets/files/Jianfeng-Ning-CV.pdf
   - label: GitHub
     url: https://github.com/JianfengNing
   - label: ResearchGate
@@ -37,19 +32,6 @@ links:
   - label: Email
     url: mailto:ning@wias-berlin.de
 
-research_interests:
-  - title: Numerical PDEs
-    description: Stable discretizations and computational methods for PDE-constrained problems.
-    number: "01"
-  - title: Inverse Problems
-    description: Direct sampling and reconstruction methods for inverse scattering and imaging.
-    number: "02"
-  - title: Optimization
-    description: Optimization in function spaces, variational models, and nonsmooth structure.
-    number: "03"
-  - title: Machine Learning
-    description: Structure-aware learning methods that complement analytical reconstruction.
-    number: "04"
 
 publications:
   - year: "2026"
