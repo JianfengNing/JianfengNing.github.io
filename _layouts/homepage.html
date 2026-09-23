@@ -18,7 +18,7 @@
     <meta name="twitter:title" content="{{ site.title }} · {{ site.position }}">
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image" content="{{ site.url }}/assets/img/social-preview.jpg">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=20260922-2' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=20260923-1' | relative_url }}">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -55,7 +55,6 @@
         <nav id="site-nav" aria-label="Primary navigation">
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
-          <a href="#research">Research</a>
           <a href="#publications">Publications</a>
           <a href="#recognition">Recognition</a>
           <a href="#contact">Contact</a>
@@ -123,7 +122,7 @@
 
       <section class="publication-section" id="publications">
         <div class="section shell publication-shell">
-          <div class="section-label"><span>04</span><p>Publications</p></div>
+          <div class="section-label"><span>03</span><p>Publications</p></div>
           <div class="section-body">
             <div class="section-heading publication-heading">
               <h2>Publications</h2>
@@ -150,7 +149,7 @@
       </section>
 
       <section class="section shell" id="recognition">
-        <div class="section-label"><span>05</span><p>Recognition</p></div>
+        <div class="section-label"><span>04</span><p>Recognition</p></div>
         <div class="section-body recognition-content">
           <div>
             <div class="section-heading compact-heading"><h2>Honors & awards</h2></div>
@@ -176,16 +175,6 @@
             <p class="eyebrow light-eyebrow">Contact</p>
             <h2>Let’s discuss inverse problems, numerical PDEs, or scientific machine learning.</h2>
             <a class="contact-email" href="mailto:{{ profile.email }}">{{ profile.email }}</a>
-          </div>
-          <div class="skills-panel">
-            <div>
-              <p class="mini-label">Programming</p>
-              <ul class="tag-list">{% for skill in profile.skills.programming %}<li>{{ skill }}</li>{% endfor %}</ul>
-            </div>
-            <div>
-              <p class="mini-label">Languages</p>
-              <ul class="language-list">{% for language in profile.skills.languages %}<li>{{ language }}</li>{% endfor %}</ul>
-            </div>
           </div>
         </div>
       </section>
